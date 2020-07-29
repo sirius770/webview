@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">WebDemo</string>
+
+
+    <string name="tip">提示语</string>
+    <string name="confirm">确认</string>
+    <string name="logout">退出</string>
+    <string name="delete">删除</string>
+    <string name="cancel">取消</string>
+    <string name="retry">重试</string>
+    <string name="query_again">再次查询</string>
+    <string name="we_chat_logout_tip">是否退出登录?</string>
+
+    <string name="tip_share_video">分享视频</string>
+
+
+    <string name="warm_info">友情提示</string>
+    <string name="important_info">重要提示</string>
+    <string name="permission_fail">授权失败</string>
+    <string name="reject_note">拒绝以上权限将导致软件无法正常使用，请重新选择。</string>
+    <string name="request_permission_by_user_self">
+        您拒绝了软件启动所需的权限，软件不能正常运行。\n现在需要手动开启，点击【授权】按钮，跳转到权限管理页面授权\n\n需要授权的权限:\n%1$s
+    </string>
+    <string name="accept">授权</string>
+    <string name="reject">拒绝</string>
+
+</resources>
